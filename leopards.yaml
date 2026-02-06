@@ -1,0 +1,13 @@
+team : leopards
+
+manager: luke
+members:
+  - name: David2
+    position: Goalkeeper
+    number: 1
+  - name: Eva2
+    position: Defender
+    number: 4
+  - name: Frank2
+    position: Forward
+    number: 10
