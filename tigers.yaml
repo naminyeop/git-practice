@@ -12,3 +12,6 @@ mebers:
   - name: Charlie
     position: Defender
     number: 5
+  - name: George
+    position: Goalkeeper
+    number: 1
