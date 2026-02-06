@@ -1,0 +1,13 @@
+team: Lions
+
+manager: Sarah
+members:
+  - name: David
+    position: Forward
+    number: 10
+  - name: Eva
+    position: Midfielder
+    number: 7
+  - name: Frank
+    position: Defender
+    number: 4

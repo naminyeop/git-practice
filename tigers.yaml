@@ -1,0 +1,14 @@
+team: Tigers
+
+manager : John
+
+mebers:
+  - name: Alice
+    position: Forward
+    number: 9
+  - name: Bob
+    position: Midfielder
+    number: 8
+  - name: Charlie
+    position: Defender
+    number: 5
