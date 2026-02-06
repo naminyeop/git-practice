@@ -1,0 +1,16 @@
+team : cheetas
+
+manager: laura
+members:
+  - name: Henry
+    position: Forward
+    number: 11
+  - name: Irene
+    position: Midfielder
+    number: 7
+  - name: Jack
+    position: Defender
+    number: 3
+  - name: Karen
+    position: Goalkeeper
+    number: 1
