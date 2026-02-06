@@ -1,11 +1,10 @@
-team : cheetas
-
-manager: laura
+team: panthers
+manager: Sebastian
 members:
-  - name: Henry
+  - name: Hannah
     position: Forward
     number: 11
-  - name: Irene
+  - name: Ian
     position: Midfielder
     number: 7
   - name: Jack
