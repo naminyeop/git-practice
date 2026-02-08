@@ -1,0 +1,14 @@
+team: Jaguars
+
+manager: Stanley
+
+members:
+  - name: Caleb
+    position: Forward
+    number: 10
+  - name: Harvey
+    position: Midfielder
+    number: 7
+  - name: Myles
+    position: Defender
+    number: 4
