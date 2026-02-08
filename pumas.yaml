@@ -1,0 +1,14 @@
+team: Pumas
+
+manager: Jude
+
+members:
+  - name: Ezra
+    position: Forward
+    number: 10
+  - name: Carter
+    position: Midfielder
+    number: 6
+  - name: Finn
+    position: Defender
+    number: 4
