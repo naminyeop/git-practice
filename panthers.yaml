@@ -13,3 +13,6 @@ members:
   - name: Karen
     position: Goalkeeper
     number: 1
+  - name: Freddie
+    position: Midfielder
+    number: 8
