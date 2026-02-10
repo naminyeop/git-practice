@@ -11,3 +11,6 @@ members:
   - name: Frank2
     position: Forward
     number: 10
+  - name: olivia
+    position: Midfielder
+    number: 8
