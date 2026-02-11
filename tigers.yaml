@@ -14,3 +14,6 @@ mebers:
   - name: George
     position: Goalkeeper
     number: 1
+  - name: Tyler
+    position: Forward
+    number: 11
