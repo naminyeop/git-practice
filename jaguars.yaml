@@ -12,3 +12,6 @@ members:
   - name: Myles
     position: Defender
     number: 4
+  - name: Pinkfong
+    position: Defender
+    number: 3
