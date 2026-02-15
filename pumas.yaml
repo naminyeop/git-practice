@@ -12,3 +12,6 @@ members:
   - name: Finn
     position: Defender
     number: 4
+  - name: Pororo
+    position: Goalkeeper
+    number: 1
